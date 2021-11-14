@@ -13,6 +13,6 @@ To using this code in different robots, you need to input different name as diff
     roslaunch python_sample python_sample.py type:=a
 "a" can be replaced to any other words except the word used above. Because the simulator is already open the robots setting, it has no need to open twice.
 
-# Exception
+# Get errors?
 If there is something wrong, please check
 * the script/main.py is executable or not
