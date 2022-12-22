@@ -1,4 +1,6 @@
 # Introduction
+This project was moved to [MRL organization account](https://github.com/NcuMathRoboticsLab/hypharos_minibot_turtlebot_python_sample) now.
+
 This code is the sample code for the hypharos_minibot and the turtlebot. It includes:
 
 * collect the laser scan
